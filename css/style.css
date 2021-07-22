@@ -1,0 +1,21 @@
+body{
+  background-color: #E6DDC6;
+}
+hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #C490E4;
+  border-width: 5px;
+  width: 5%;
+}
+h1{
+  font-family: "Lucida Console", "Courier New", monospace;
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+  text-decoration: underline;
+}
+img{
+  border-radius: 50%;
+}
